@@ -1,0 +1,19 @@
+[  {  
+    "id": 8,
+   "name": "Gold's Gym", 
+   "price": 50,  
+   "features": ["24/7 access", "cardio equipment", "free weights"]
+  },
+  {
+    "id": 4,
+    "name": "Equinox",
+    "price": 150,
+    "features": ["personal training", "spa services", "group classes"]
+  },
+  {
+    "id": 5,
+    "name": "Planet Fitness",
+    "price": 10,
+    "features": ["tanning beds", "fitness training", "massage chairs"]
+  }
+]
